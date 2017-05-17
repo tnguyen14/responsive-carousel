@@ -1,5 +1,7 @@
 # Responsive Carousel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tnguyen14/responsive-carousel.svg)](https://greenkeeper.io/)
+
 A jQuery-based script for responsive carousels that work with mouse, touch, and keyboard
 
 [![Build Status](https://travis-ci.org/filamentgroup/responsive-carousel.png)](https://travis-ci.org/filamentgroup/responsive-carousel)
